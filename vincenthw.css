@@ -1,0 +1,51 @@
+#content {
+
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+}
+
+body {
+	background: url("IMG_1759.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Work Sans';
+	font-weight: bold;
+}	
+
+button {
+	background-color: darkcyan;
+	color: white;
+}
+ h1{
+ 	font-size: 4em;
+ 
+ }
+
+ h3 {
+ 	font-size: 2em;
+
+ }
+
+ html{
+ 	height: 100%;
+ }
+
+ hr {
+ 	height: 1px;
+ 	background-color: white;
+ 	width: 400px;
+ }
+a {
+	color:white;
+}
+
+.nav {
+  background-color:teal;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+
+
+
+
