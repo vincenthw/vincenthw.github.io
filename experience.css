@@ -2,11 +2,11 @@
 
 	text-align: left;
 	padding-top: 10%;
-	color: white;
+	color: #333333;
 }
 
 body {
-	background: url(https://images.unsplash.com/photo-1526415302530-ad8c7d818689?ixlib=rb-0.3.5&s=ee6d11777e9a4d400d4e80b89a51842d&auto=format&fit=crop&w=2100&q=80);
+	background: url(https://images.unsplash.com/photo-1516053256215-94022213b13c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=703a399feb6c6139d4e355122c0ef2cc&auto=format&fit=crop&w=1567&q=80);
 	background-size: cover;
 	background-position: center;
 	font-family: 'Work Sans';
