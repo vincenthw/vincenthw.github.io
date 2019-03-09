@@ -1,0 +1,74 @@
+#content {
+  
+        text-align: left;
+        padding-top: 5%;
+        color: #333333;
+}
+
+body {
+        background: url(IMG_0763.jpeg);
+        background-size: cover;
+        background-position: center;
+        font-family: 'Work Sans';
+}
+
+button {
+        background-color: black;
+        color: white;
+}
+
+h1{
+        font-size: 4em;
+        text-align: left;
+        color: #FFFFFF;
+}
+
+ h3 {
+        font-size: 4em;
+ }
+p {
+        text-align: center;
+        color: #FFFFFF;
+        font-size = 1em;
+}
+a {
+        text-align: center;
+}
+.name {
+        font-family:'Caveat', cursive;
+        text-align: center;
+        color: #FFFFFF;
+        font-size: 5em;
+}
+.btn {
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        text-align: center;
+}
+.button-wrapper {
+        text-align: center;
+        padding-top: 15%;
+        padding-bottom: 15%;
+}
+html{
+        height: 100%;
+ }
+
+ hr {
+        align-items: left;
+        height: 1px;
+        background-color: white;
+        width: 400px;
+ }
+a {
+        color:white;
+}
+
+.nav {
+        color:#333333;
+        /*background-color:teal;*/
+        background-image: none;
+        background-repeat: no-repeat;
+ }
