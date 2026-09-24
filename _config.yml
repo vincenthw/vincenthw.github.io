@@ -1,2 +1,5 @@
 plugins: 
-  - github-pages 
+  - github-pages
+  - jekyll-remote-theme
+remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/img/profile.jpeg 
